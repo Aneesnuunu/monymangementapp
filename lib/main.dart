@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:mony_app_last/sample.dart';
+import 'package:mony_app_last/homepage.dart';
 
-import 'home.dart';
 
 void main() {
   runApp(const MyApp());
